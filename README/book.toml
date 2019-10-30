@@ -1,0 +1,6 @@
+[book]
+authors = ["LinkWu"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "国际化操作手册"

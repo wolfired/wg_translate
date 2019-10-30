@@ -1,0 +1,11 @@
+prefix=D:/opencc
+exec_prefix=${prefix}
+libdir=D:/opencc/lib/
+includedir=D:/opencc/include/
+
+Name: opencc
+Description: Open Chinese Convert
+Version: 1.0.5
+Requires:
+Libs: -L${libdir} -lopencc
+Cflags: -I${includedir}/opencc
