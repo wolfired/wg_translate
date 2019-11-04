@@ -2,7 +2,7 @@
 
 @call do_init.bat
 
-set ACTION=-------------- Export Images ant Texts from Fla --------------
+set ACTION=-------------- Export Images and Texts from Fla --------------
 
 if not exist "%EXE_FLASH%" (
     echo "%EXE_FLASH%" does not exist

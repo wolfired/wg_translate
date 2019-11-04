@@ -2,7 +2,7 @@
 
 @call do_init.bat
 
-set ACTION=-------------- Import Images ant Texts to Fla --------------
+set ACTION=-------------- Import Images and Texts to Fla --------------
 
 if not exist "%EXE_FLASH%" (
     echo "%EXE_FLASH%" does not exist
